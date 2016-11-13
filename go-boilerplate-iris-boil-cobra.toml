@@ -1,0 +1,5 @@
+postgres = 'postgres://boilerplate:boilerplate@localhost:5432/boilerplate?sslmode=disable'
+
+[serve]
+level = 'debug'
+format = 'text'
